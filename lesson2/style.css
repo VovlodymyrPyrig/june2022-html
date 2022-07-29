@@ -1,0 +1,30 @@
+.father{
+    width: 610px;
+}
+.container{
+    display: flex;
+    align-items: start;
+}
+.wigdest{
+    text-align: center;
+    color: white;
+    margin: 5px;
+    background: blue;
+    width: 600px;
+    height: 190px;
+}
+.big{
+    text-align: center;
+    color: white;
+    margin: 5px;
+    background: darkblue;
+    width: 200px;
+    height: 200px;
+}
+.contact{
+    text-align: center;
+    color: white;
+    background: blue;
+    width: 605px;
+    height: 280px;
+}

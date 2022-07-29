@@ -1,0 +1,58 @@
+.father{
+    margin: 0 auto;
+    width:1000px;
+    height: 700px;
+}
+.header{
+    background: #c7c7c7;
+    height: 150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+img{
+    width: 25px;
+    height: 25px;
+}
+.icon{
+    width: 200px;
+    height: 50px;
+    background: midnightblue;
+    margin-left: 50px;
+    border-radius: 10px;
+}
+.nav{
+    width: 100px;
+    height: 50px;
+    margin-right: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.content{
+    background: midnightblue;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+}
+.mother{
+    width: 800px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    bottom: -50px;
+}
+.box{
+    width: 100px;
+    height: 100px;
+    background: blueviolet;
+    border-radius: 10px;
+}
+.footer{
+    background: #c7c7c7;
+    height: 250px;
+}
