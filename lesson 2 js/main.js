@@ -18,7 +18,6 @@ const book3 = {
         age: 47
     }
 }
-
 const book4 = {
     title: 'Lisova Pisnya',
     pageCount: "152",
@@ -28,7 +27,6 @@ const book4 = {
         age: 42
     }
 }
-
 const book5 = {
     title: 'Lys Mykyta',
     pageCount: "88",
@@ -41,8 +39,6 @@ const book5 = {
 console.log(book3,book4,book5);
 // - Створити масив з 10 об'єктами які описують сутніть "користувач". Поля: name, username,password. Вивести в консоль пароль кожного користувача
 // Footer
-
-
 let group = [
     {
         user: 'Vasyl',
@@ -105,4 +101,3 @@ console.log(group[6].password);
 console.log(group[7].password);
 console.log(group[8].password);
 console.log(group[9].password);
-
